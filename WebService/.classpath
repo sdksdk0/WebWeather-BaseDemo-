@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="src/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="src/lib/gmbal-api-only.jar"/>
+	<classpathentry kind="lib" path="src/lib/ha-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/management-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/mimepull.jar"/>
+	<classpathentry kind="lib" path="src/lib/policy.jar"/>
+	<classpathentry kind="lib" path="src/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="src/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="src/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="src/lib/stax2-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="src/lib/woodstox-core-asl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
